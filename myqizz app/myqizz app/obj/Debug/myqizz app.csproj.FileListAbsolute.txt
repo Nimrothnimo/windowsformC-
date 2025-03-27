@@ -1,0 +1,28 @@
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\bin\Debug\myqizz app.exe.config
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\bin\Debug\myqizz app.exe
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\bin\Debug\myqizz app.pdb
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.csproj.AssemblyReference.cache
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Properties.Resources.resources
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.csproj.GenerateResource.cache
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.csproj.CoreCompileInputs.cache
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.exe
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.pdb
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.loginform.resources
+D:\Sliate\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Form2.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.csproj.AssemblyReference.cache
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.loginform.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Properties.Resources.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Q2.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.csproj.GenerateResource.cache
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.csproj.CoreCompileInputs.cache
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.exe
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz app.pdb
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\bin\Debug\myqizz app.exe.config
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\bin\Debug\myqizz app.exe
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\bin\Debug\myqizz app.pdb
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Q1.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.confirm.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Q3.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Q4.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Q5.resources
+D:\Sliate\SEM1\Visual programming\code\myqizz app\myqizz app\obj\Debug\myqizz_app.Finishform.resources
